@@ -6,3 +6,5 @@ Utilizei o Gym para visualizar o taxi sendo treinado.
 Link do ambiente: https://www.gymlibrary.dev/environments/toy_text/taxi/
 Ambiente utilizado: Taxi V3.
 
+#Taxi-v3
+![Taxi navigation](taxi navigation.gif "O taxi aprende a buscar e deixar o passageiro por meio do aprendizado por reforço")
