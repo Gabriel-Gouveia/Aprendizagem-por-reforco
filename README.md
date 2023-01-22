@@ -7,4 +7,4 @@ Link do ambiente: https://www.gymlibrary.dev/environments/toy_text/taxi/
 Ambiente utilizado: Taxi V3.
 
 # Taxi-v3
-![Taxi navigation](https://github.com/Gabriel-Gouveia/Aprendizagem-por-reforco/blob/main/taxi%20navigation.gif) "O taxi aprende a buscar e deixar o passageiro por meio do aprendizado por reforço")
+![Taxi navigation](https://github.com/Gabriel-Gouveia/Aprendizagem-por-reforco/blob/main/taxi%20navigation.gif "O taxi aprende a buscar e deixar o passageiro por meio do aprendizado por reforço")
